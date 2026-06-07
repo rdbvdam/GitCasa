@@ -42,6 +42,12 @@ public class Tanda2 {
         
         
         System.out.println("Probando el git diff");
+        
+        // el git diff compara lo de directorio actual con ,lo que esta en el stage area y el git diff --staged el ultimo commit contra lo que esta en el staged area
+        
+        System.out.println("Git dif -staged");
+        
+        System.out.println("hola hola");
     }
     
 }
