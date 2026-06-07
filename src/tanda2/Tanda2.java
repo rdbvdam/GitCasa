@@ -39,6 +39,9 @@ public class Tanda2 {
         
         
         System.out.println("Probando el gitignore");
+        
+        
+        System.out.println("Probando el git diff");
     }
     
 }
