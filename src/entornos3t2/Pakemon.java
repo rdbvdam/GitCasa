@@ -6,7 +6,9 @@ package entornos3t2;
 
 /**
  *
- * @author PACO
+ * @author Ricardo Bello
+ * @version 1.0
+ * @see <a href="https://github.com/PacoIESJM/ExamDistancia">Repositorio GitHub</a>
  */
 public class Pakemon {
 
